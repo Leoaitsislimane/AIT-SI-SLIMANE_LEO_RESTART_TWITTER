@@ -1,0 +1,28 @@
+* {
+    font-family: sans-serif;
+}
+
+body{
+    background-color: rgb(224, 212, 212);
+}
+
+.twitte{
+    text-decoration: none;
+}
+
+.inscription{
+    text-align: center;
+}
+
+.twit{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.info{
+    text-align: center;
+}
+
